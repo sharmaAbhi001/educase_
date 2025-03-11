@@ -1,6 +1,8 @@
 # Educase_India
 
-- way to install clone this repo
--npm install 
--to start node index.js
--
+- way to start
+- clone this repo
+- npm install 
+- to start node index.js
+- add mysql DB 
+- test api in postman
