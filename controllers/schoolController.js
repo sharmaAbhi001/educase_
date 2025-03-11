@@ -7,6 +7,7 @@ exports.addSchool = async (req, res) => {
   // Input validation
   if (!name || !address || !latitude || !longitude) {
     return res.status(400).json({ message: "All fields are required" });
+    
   }
 
   try {
